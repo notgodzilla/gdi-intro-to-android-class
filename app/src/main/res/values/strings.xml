@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImgSearchApp</string>
+    <string name="search">Search</string>
+    <string name="enter_search_text">Enter search text</string>
+    <string name="likes_text">%1$d likes</string>
+    <string name="num_comments">%1$d comments</string>
+</resources>
